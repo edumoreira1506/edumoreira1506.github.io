@@ -1,0 +1,27 @@
+body {
+	background: black;
+	color: white;
+	font-family: Helvetica;
+	text-align: center;
+}
+div {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	transform: translate(-50%, -50%);
+}
+h3 {
+	margin: 0;
+}
+span {
+
+}
+h1 {
+	color: #a09a9a;
+	font-size: 90px;
+  margin: 0 0 0 0;
+}
+a {
+
+}
